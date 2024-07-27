@@ -4,7 +4,7 @@ tags:
   - "book"
   - "tv series"
 ---
-![The depths of space showing an immense variety of colour across millions of stars.](./src/media/jeremy-thomas-E0AHdsENmDg-unsplash.jpg "Space by Jeremy Thomas")
+![The depths of space showing an immense variety of colour across millions of stars.](./src/media/dave-goudreau-jeedDwSSRng-unsplash.jpg "Space by Jeremy Thomas")
 
 ## Setting
 
