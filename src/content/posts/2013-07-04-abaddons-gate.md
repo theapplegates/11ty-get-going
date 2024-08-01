@@ -30,6 +30,25 @@ Jim Holden and the crew of the Rocinante are part of a vast flotilla of scientif
   <source type="image/avif" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_50/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 50w, https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_557/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 557w, https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_850/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 850w, https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_1000/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 1000w" sizes="(max-width: 1000px) 100vw, 1000px">
   <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_1000/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_50/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 50w, https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_557/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 557w, https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_850/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 850w, https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_1000/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 1000w" sizes="(max-width: 1000px) 100vw, 1000px" alt="yellow door">
 </picture>
+Nothing to see here, move along.  Just testing and I just needed any easy way see which responsive system works best.
+```
+![A Rolex](https://applegate-paul.mo.cloudinary.net/zoom/m126067-0001_2310pf_001.jpg)
 
+![A Rolex2](https://res.cloudinary.com/paulapplegate-com/image/upload/f_auto,q_auto,c_fill/c_scale,w_auto:breakpoints_200_1920_30_15/m126067-0001_2310pf_001_sztluk.jpg)
+
+
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto,f_auto,q_auto/m126067-0001_2310pf_001_sztluk.jpg" class="cld-responsive">
+
+<picture>
+  <source type="image/avif" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_50/noir-UBVexIzk2Ps-unsplash_csinlu.jpg 50w, https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_509/noir-UBVexIzk2Ps-unsplash_csinlu.jpg 509w, https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_669/noir-UBVexIzk2Ps-unsplash_csinlu.jpg 669w, https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_834/noir-UBVexIzk2Ps-unsplash_csinlu.jpg 834w, https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_945/noir-UBVexIzk2Ps-unsplash_csinlu.jpg 945w, https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_1000/noir-UBVexIzk2Ps-unsplash_csinlu.jpg 1000w" sizes="(max-width: 1000px) 100vw, 1000px">
+  <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_1000/noir-UBVexIzk2Ps-unsplash_csinlu.jpg" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_50/noir-UBVexIzk2Ps-unsplash_csinlu.jpg 50w, https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_509/noir-UBVexIzk2Ps-unsplash_csinlu.jpg 509w, https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_669/noir-UBVexIzk2Ps-unsplash_csinlu.jpg 669w, https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_834/noir-UBVexIzk2Ps-unsplash_csinlu.jpg 834w, https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_945/noir-UBVexIzk2Ps-unsplash_csinlu.jpg 945w, https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_1000/noir-UBVexIzk2Ps-unsplash_csinlu.jpg 1000w" sizes="(max-width: 1000px) 100vw, 1000px" alt="car">
+</picture>
+
+
+<picture>
+  <source type="image/avif" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_50/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 50w, https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_557/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 557w, https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_850/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 850w, https://res.cloudinary.com/paulapplegate-com/image/upload/f_avif,q_auto/w_1000/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 1000w" sizes="(max-width: 1000px) 100vw, 1000px">
+  <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_1000/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_50/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 50w, https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_557/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 557w, https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_850/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 850w, https://res.cloudinary.com/paulapplegate-com/image/upload/q_auto/w_1000/dave-goudreau-jeedDwSSRng-unsplash_wscsbn.jpg 1000w" sizes="(max-width: 1000px) 100vw, 1000px" alt="yellow door">
+</picture>
+``` 
 
 [^1]: Source: https://www.goodreads.com/book/show/16131032-abaddon-s-gate
