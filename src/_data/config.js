@@ -1,24 +1,24 @@
 export default {
-	projectName: "11ty Get Going",
+	projectName: "Move Along",
 	description: "Just another 11ty starter kit",
-	shortName: "11ty GG",
+	shortName: "Move Go Enjoy Life",
 	domain:
-		process.env.ELEVENTY_RUN_MODE == "serve" ? "http://localhost:8080" : "https://example.com",
+		process.env.ELEVENTY_RUN_MODE == "serve" ? "http://localhost:8080" : "https://movealong.paulapplegate.com",
 	robots: "index, follow",
 	themeColor: "#FFFFFF",
 	backgroundColor: "#FFFFFF",
 	author: {
-		name: "Author Name",
-		email: "author@email.com",
+		name: "Paul Applegate",
+		email: "me@paulapplegate.com",
 	},
 	identity: [
 		{
 			rel: "me",
-			url: "URL-GOES-HERE",
+			url: "https://movealong.paulapplegate.com",
 		},
 	],
 	og: {
-		locale: "en_GB",
+		locale: "en_US",
 		type: "website",
 		image: {
 			rel: "/og-default.jpg",
