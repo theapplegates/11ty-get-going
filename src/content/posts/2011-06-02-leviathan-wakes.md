@@ -16,4 +16,20 @@ Detective Miller is looking for a girl. One girl in a system of billions, but he
 
 Holden and Miller must thread the needle between the Earth government, the Outer Planet revolutionaries, and secretive corporations—and the odds are against them. But out in the Belt, the rules are different, and one small ship can change the fate of the universe.[^1]
 
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto,f_auto,q_auto/kateryna-hliznitsovaStreet_okzmrl.jpg" class="cld-responsive">
+
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_auto/dpr_auto,f_auto,q_auto/hillshire-farm-2_fx2mno.jpg" class="cld-responsive">
+
+Below are the same images, but not using 3 step [method](https://cloudinary.com/documentation/responsive_client_side_js#step_1_include_the_cloudinary_javascript_library)
+Instead cloudinary sets default breakpoints, like so, ``` w_auto:breakpoints_200_1920_30_15 ```
+So by only using a url, a responsive image is generated. 
+```js
+<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_auto,q_auto/w_auto:breakpoints_200_1920_30_15/hillshire-farm-2_fx2mno.jpg" alt="A yummy sammy">
+```
+<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_auto,q_auto/w_auto:breakpoints_200_1920_30_15/hillshire-farm-2_fx2mno.jpg" alt="A yummy sammy">
+
+<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_auto,q_auto/w_auto:breakpoints_200_1920_30_15/kateryna-hliznitsovaStreet_okzmrl.jpg" alt="An quaint street">
+
+
+
 [^1]: Source: https://www.goodreads.com/book/show/8855321-leviathan-wakes
