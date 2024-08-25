@@ -8,92 +8,110 @@ tags:
 <picture>
     <source
       type="image/jxl"
-      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 50w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_562/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 562w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_918/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 918w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 1000w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 2148w"
+      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/elephant-charge_ihudf7.jxl 50w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_388/f_jxl/elephant-charge_ihudf7.jxl 388w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_589/f_jxl/elephant-charge_ihudf7.jxl 589w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_748/f_jxl/elephant-charge_ihudf7.jxl 748w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_870/f_jxl/elephant-charge_ihudf7.jxl 870w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_982/f_jxl/elephant-charge_ihudf7.jxl 982w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/elephant-charge_ihudf7.jxl 1000w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/elephant-charge_ihudf7.jxl 2148w"
       sizes="(max-width: 50px) 50px,
-  (max-width: 562px) 562px,
-  (max-width: 918px) 918px,
+  (max-width: 388px) 388px,
+  (max-width: 589px) 589px,
+  (max-width: 748px) 748px,
+  (max-width: 870px) 870px,
+  (max-width: 982px) 982px,
   (max-width: 1000px) 1000px,
   (max-width: 2148px) 2148px, 100vw"
     >
     <source
       type="image/avif"
-      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 50w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_562/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 562w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_918/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 918w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 1000w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 2148w"
+      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/elephant-charge_ihudf7.jxl 50w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_388/f_jxl/elephant-charge_ihudf7.jxl 388w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_589/f_jxl/elephant-charge_ihudf7.jxl 589w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_748/f_jxl/elephant-charge_ihudf7.jxl 748w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_870/f_jxl/elephant-charge_ihudf7.jxl 870w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_982/f_jxl/elephant-charge_ihudf7.jxl 982w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/elephant-charge_ihudf7.jxl 1000w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/elephant-charge_ihudf7.jxl 2148w"
       sizes="(max-width: 50px) 50px,
-  (max-width: 562px) 562px,
-  (max-width: 918px) 918px,
+  (max-width: 388px) 388px,
+  (max-width: 589px) 589px,
+  (max-width: 748px) 748px,
+  (max-width: 870px) 870px,
+  (max-width: 982px) 982px,
   (max-width: 1000px) 1000px,
   (max-width: 2148px) 2148px, 100vw"
     >
     <source
       type="image/jpeg"
-      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 50w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_562/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 562w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_918/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 918w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 1000w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 2148w"
+      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/elephant-charge_ihudf7.jxl 50w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_388/f_jxl/elephant-charge_ihudf7.jxl 388w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_589/f_jxl/elephant-charge_ihudf7.jxl 589w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_748/f_jxl/elephant-charge_ihudf7.jxl 748w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_870/f_jxl/elephant-charge_ihudf7.jxl 870w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_982/f_jxl/elephant-charge_ihudf7.jxl 982w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/elephant-charge_ihudf7.jxl 1000w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/elephant-charge_ihudf7.jxl 2148w"
       sizes="(max-width: 50px) 50px,
-  (max-width: 562px) 562px,
-  (max-width: 918px) 918px,
+  (max-width: 388px) 388px,
+  (max-width: 589px) 589px,
+  (max-width: 748px) 748px,
+  (max-width: 870px) 870px,
+  (max-width: 982px) 982px,
   (max-width: 1000px) 1000px,
   (max-width: 2148px) 2148px, 100vw"
     >
     <img
-      src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl"
-      alt="An elephant"
+      src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/elephant-charge_ihudf7.jxl"
+      alt="Elephant"
     />
   </picture>
 
 <picture>
     <source
       type="image/jxl"
-      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 50w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_562/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 562w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_918/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 918w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 1000w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 2148w"
+      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/Luke_suyrky.jxl 50w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_712/f_jxl/Luke_suyrky.jxl 712w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_989/f_jxl/Luke_suyrky.jxl 989w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/Luke_suyrky.jxl 1000w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/Luke_suyrky.jxl 2148w"
       sizes="(max-width: 50px) 50px,
-  (max-width: 562px) 562px,
-  (max-width: 918px) 918px,
+  (max-width: 712px) 712px,
+  (max-width: 989px) 989px,
   (max-width: 1000px) 1000px,
   (max-width: 2148px) 2148px, 100vw"
     >
     <source
       type="image/avif"
-      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 50w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_562/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 562w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_918/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 918w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 1000w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 2148w"
+      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/Luke_suyrky.jxl 50w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_712/f_jxl/Luke_suyrky.jxl 712w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_989/f_jxl/Luke_suyrky.jxl 989w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/Luke_suyrky.jxl 1000w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/Luke_suyrky.jxl 2148w"
       sizes="(max-width: 50px) 50px,
-  (max-width: 562px) 562px,
-  (max-width: 918px) 918px,
+  (max-width: 712px) 712px,
+  (max-width: 989px) 989px,
   (max-width: 1000px) 1000px,
   (max-width: 2148px) 2148px, 100vw"
     >
     <source
       type="image/jpeg"
-      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 50w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_562/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 562w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_918/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 918w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 1000w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 2148w"
+      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/Luke_suyrky.jxl 50w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_712/f_jxl/Luke_suyrky.jxl 712w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_989/f_jxl/Luke_suyrky.jxl 989w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/Luke_suyrky.jxl 1000w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/Luke_suyrky.jxl 2148w"
       sizes="(max-width: 50px) 50px,
-  (max-width: 562px) 562px,
-  (max-width: 918px) 918px,
+  (max-width: 712px) 712px,
+  (max-width: 989px) 989px,
   (max-width: 1000px) 1000px,
   (max-width: 2148px) 2148px, 100vw"
     >
     <img
-      src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl"
-      alt="I forget"
+      src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/Luke_suyrky.jxl"
+      alt="My Boy Luke"
     />
   </picture>
 
