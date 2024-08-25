@@ -1,5 +1,5 @@
 export default {
-	projectName: "11ty Get Going",
+	projectName: "Life.Live It.",
 	description: "Just another 11ty starter kit",
 	shortName: "11ty GG",
 	domain:
@@ -8,17 +8,17 @@ export default {
 	themeColor: "#FFFFFF",
 	backgroundColor: "#FFFFFF",
 	author: {
-		name: "Author Name",
-		email: "author@email.com",
+		name: "Paul Applegate",
+		email: "me@paulapplegate.com",
 	},
 	identity: [
 		{
 			rel: "me",
-			url: "URL-GOES-HERE",
+			url: "https://move-along.paulapplegate.com",
 		},
 	],
 	og: {
-		locale: "en_GB",
+		locale: "en_US",
 		type: "website",
 		image: {
 			rel: "/og-default.jpg",
