@@ -85,6 +85,10 @@ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2150/f_jpeg/
     alt="A beautiful cat"
   />
 </picture>
+
+
+
+
 ## Setting
 
 We are not alone. On Ganymede, breadbasket of the outer planets, a Martian marine watches as her platoon is slaughtered by a monstrous supersoldier. On Earth, a high-level politician struggles to prevent interplanetary war from reigniting. And on Venus, an alien protomolecule has overrun the planet, wreaking massive, mysterious changes and threatening to spread out into the solar system.
