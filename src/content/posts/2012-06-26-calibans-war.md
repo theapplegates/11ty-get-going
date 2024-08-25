@@ -7,7 +7,84 @@ tags:
 figureTest:
   caption: "This is a caption for the figure"
 ---
+<picture>
+  
+  <source
+    type="image/jxl"
+    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 150w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_300/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 300w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_600/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 600w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_850/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 850w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1200/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1200w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1800/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1800w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2150/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 2150w"
+    sizes="(max-width: 150px) 150px,
+(max-width: 300px) 300px,
+(max-width: 600px) 600px,
+(max-width: 850px) 850px,
+(max-width: 1200px) 1200px,
+(max-width: 1800px) 1800px,
+(max-width: 2150px) 2150px, 100vw"
+  >
 
+  <source
+    type="image/avif"
+    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 150w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_300/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 300w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_600/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 600w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_850/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 850w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1200/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1200w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1800/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1800w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2150/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 2150w"
+    sizes="(max-width: 150px) 150px,
+(max-width: 300px) 300px,
+(max-width: 600px) 600px,
+(max-width: 850px) 850px,
+(max-width: 1200px) 1200px,
+(max-width: 1800px) 1800px,
+(max-width: 2150px) 2150px, 100vw"
+  >
+
+  <source
+    type="image/webp"
+    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 150w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_300/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 300w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_600/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 600w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_850/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 850w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1200/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1200w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1800/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1800w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2150/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 2150w"
+    sizes="(max-width: 150px) 150px,
+(max-width: 300px) 300px,
+(max-width: 600px) 600px,
+(max-width: 850px) 850px,
+(max-width: 1200px) 1200px,
+(max-width: 1800px) 1800px,
+(max-width: 2150px) 2150px, 100vw"
+  >
+
+  <source
+    type="image/jpeg"
+    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 150w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_300/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 300w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_600/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 600w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_850/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 850w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1200/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1200w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1800/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1800w,
+https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2150/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 2150w"
+    sizes="(max-width: 150px) 150px,
+(max-width: 300px) 300px,
+(max-width: 600px) 600px,
+(max-width: 850px) 850px,
+(max-width: 1200px) 1200px,
+(max-width: 1800px) 1800px,
+(max-width: 2150px) 2150px, 100vw"
+  >
+  <img
+    src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl"
+    alt="A beautiful cat"
+  />
+</picture>
 ## Setting
 
 We are not alone. On Ganymede, breadbasket of the outer planets, a Martian marine watches as her platoon is slaughtered by a monstrous supersoldier. On Earth, a high-level politician struggles to prevent interplanetary war from reigniting. And on Venus, an alien protomolecule has overrun the planet, wreaking massive, mysterious changes and threatening to spread out into the solar system.
