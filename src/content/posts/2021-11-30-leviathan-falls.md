@@ -14,6 +14,5 @@ In the dead system of Adro, Elvi Okoye leads a desperate scientific mission to u
 
 As nearly unimaginable forces prepare to annihilate all human life, Holden and a group of unlikely allies discover a last, desperate chance to unite all of humanity, with the promise of a vast galactic civilization free from wars, factions, lies, and secrets if they win.[^1]
 
-![The depths of space showing an immense variety of colour across millions of stars.](./src/media/jeremy-thomas-E0AHdsENmDg-unsplash.jpg "Space by Jeremy Thomas")
 
 [^1]: Source: https://www.goodreads.com/book/show/28335699-leviathan-falls

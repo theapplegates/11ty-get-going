@@ -4,7 +4,6 @@ tags:
   - "book"
   - "tv series"
 ---
-![The depths of space showing an immense variety of colour across millions of stars.](./src/media/jeremy-thomas-E0AHdsENmDg-unsplash.jpg "Space by Jeremy Thomas")
 
 <picture>
     <source
@@ -51,7 +50,6 @@ tags:
       alt="An elephant"
     />
   </picture>
-
 
 <picture>
     <source

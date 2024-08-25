@@ -15,6 +15,5 @@ Ships are disappearing without a trace. Private armies are being secretly formed
 
 And as a new human order is struggling to be born in blood and fire, James Holden and the crew of the Rocinante must struggle to survive and get back to the only home they have left.[^1]
 
-![The depths of space showing an immense variety of colour across millions of stars.](./src/media/andy-holmes-rCbdp8VCYhQ-unsplash.jpg "Andy Holmes")
 
 [^1]: Source: https://www.goodreads.com/book/show/22886612-nemesis-games
