@@ -6,6 +6,99 @@ tags:
 ---
 ![The depths of space showing an immense variety of colour across millions of stars.](./src/media/jeremy-thomas-E0AHdsENmDg-unsplash.jpg "Space by Jeremy Thomas")
 
+<picture>
+    <source
+      type="image/jxl"
+      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 50w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_562/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 562w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_918/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 918w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 1000w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 2148w"
+      sizes="(max-width: 50px) 50px,
+  (max-width: 562px) 562px,
+  (max-width: 918px) 918px,
+  (max-width: 1000px) 1000px,
+  (max-width: 2148px) 2148px, 100vw"
+    >
+    <source
+      type="image/avif"
+      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 50w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_562/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 562w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_918/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 918w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 1000w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 2148w"
+      sizes="(max-width: 50px) 50px,
+  (max-width: 562px) 562px,
+  (max-width: 918px) 918px,
+  (max-width: 1000px) 1000px,
+  (max-width: 2148px) 2148px, 100vw"
+    >
+    <source
+      type="image/jpeg"
+      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 50w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_562/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 562w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_918/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 918w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 1000w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 2148w"
+      sizes="(max-width: 50px) 50px,
+  (max-width: 562px) 562px,
+  (max-width: 918px) 918px,
+  (max-width: 1000px) 1000px,
+  (max-width: 2148px) 2148px, 100vw"
+    >
+    <img
+      src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl"
+      alt="An elephant"
+    />
+  </picture>
+
+
+<picture>
+    <source
+      type="image/jxl"
+      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 50w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_562/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 562w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_918/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 918w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 1000w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 2148w"
+      sizes="(max-width: 50px) 50px,
+  (max-width: 562px) 562px,
+  (max-width: 918px) 918px,
+  (max-width: 1000px) 1000px,
+  (max-width: 2148px) 2148px, 100vw"
+    >
+    <source
+      type="image/avif"
+      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 50w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_562/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 562w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_918/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 918w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 1000w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 2148w"
+      sizes="(max-width: 50px) 50px,
+  (max-width: 562px) 562px,
+  (max-width: 918px) 918px,
+  (max-width: 1000px) 1000px,
+  (max-width: 2148px) 2148px, 100vw"
+    >
+    <source
+      type="image/jpeg"
+      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 50w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_562/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 562w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_918/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 918w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 1000w,
+  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl 2148w"
+      sizes="(max-width: 50px) 50px,
+  (max-width: 562px) 562px,
+  (max-width: 918px) 918px,
+  (max-width: 1000px) 1000px,
+  (max-width: 2148px) 2148px, 100vw"
+    >
+    <img
+      src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50/f_jxl/daniel-akselrod-u2R935sC8ic-unsplash_lgcd44.jxl"
+      alt="I forget"
+    />
+  </picture>
+
 ## Setting
 
 Humanity has colonized the solar system—Mars, the Moon, the Asteroid Belt and beyond—but the stars are still out of our reach.
