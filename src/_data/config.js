@@ -3,7 +3,7 @@ export default {
 	description: "Just another 11ty starter kit",
 	shortName: "11ty GG",
 	domain:
-		process.env.ELEVENTY_RUN_MODE == "serve" ? "http://localhost:8080" : "https://example.com",
+		process.env.ELEVENTY_RUN_MODE == "serve" ? "http://localhost:8080" : "https://move-along.paulapplegate.com",
 	robots: "index, follow",
 	themeColor: "#FFFFFF",
 	backgroundColor: "#FFFFFF",

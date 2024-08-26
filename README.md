@@ -47,7 +47,7 @@ description: "Just another 11ty starter kit",
 shortName: "11ty GG", 
 
 // Required. Update development and production urls to your project requirements.
-domain: process.env.ELEVENTY_RUN_MODE == "serve" ? "http://localhost:8080" : "https://example.com", 
+domain: process.env.ELEVENTY_RUN_MODE == "serve" ? "http://localhost:8080" : "https://move-along.paulapplegate.com", 
 
 // Required. SEO indexing behaviour.
 robots: "index, follow",
@@ -60,21 +60,21 @@ backgroundColor: "#FFFFFF",
 
 // Optional. Delete block if not used. Author values for project.
 author: {
-	name: "Author Name", 
-	email: "author@email.com", 
+	name: "Paul Applegate", 
+	email: "me@paulapplegate.com", 
 },
 
 // Optional. Delete block if you don't require link tags related to your idenity. Duplicate as many objects as you need!
 identity: [
 	{
 		rel: "me",
-		url: "URL-GOES-HERE",
+		url: "https://paulapplegate.com",
 	},
 ],
 
 // Optional. Delete block if you don't require Opengraph.
 og: {
-	locale: "en_GB",
+	locale: "en_US",
 	type: "website",
 	image: {
 		rel: "/og-default.jpg",
