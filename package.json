@@ -28,6 +28,8 @@
 		"@11ty/eleventy-plugin-rss": "^1.2.0",
 		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
 		"@11tyrocks/eleventy-plugin-lightningcss": "^1.4.0",
+		"@cloudinary/html": "^1.13.0",
+		"@cloudinary/url-gen": "^1.20.0",
 		"html-minifier": "^4.0.0",
 		"markdown-it": "^13.0.1",
 		"markdown-it-attrs": "^4.1.6",

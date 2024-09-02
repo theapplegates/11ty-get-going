@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cloudinary-jquery/2.13.1/cloudinary-jquery.min.js" integrity="sha512-Wjhv/eYbchKXmMtudMIWdm0Y8Xw6FDZSQOSpqfCYNXLrJ7FSIcQkVm881lCovhKC4YwP3Kphju5npRLQBdTDtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <style>
       a {
         text-decoration: none;
@@ -16,5 +17,13 @@
     </main>
     {% include "partials/site-footer.njk" %}
   </body>
-
+<script type="text/javascript">
+      my_breakpoints = function (width){  // width - the current width of the containing element
+        return 50 * Math.ceil(width / 50);
+      }
+      var cl = cloudinary.Cloudinary.new({cloud_name: "paulapplegate-com"}); 
+      // replace 'demo' with your cloud name in the line above 
+      cl.config({breakpoints:my_breakpoints, responsive_use_breakpoints:"resize"})
+      cl.responsive();
+  </script>
 </html>
