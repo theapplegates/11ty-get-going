@@ -7,13 +7,13 @@ tags:
 figureTest:
   caption: "This is a caption for the figure"
 ---
-<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_jxl,q_auto/w_auto:breakpoints_200_1920_30_15/hillshire-farm_ke7e8u.jxl" alt="A yummy sammy">
+<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_jxl,q_auto/hillshire-farm_ke7e8u.jxl" alt="A yummy sammy">
 
-<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_jxl,q_auto/w_auto:breakpoints_200_1920_30_15/hillshire-farm_ke7e8u.jxl" alt="A yummy sammy" class="cld-responsive">
+<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_jxl,/hillshire-farm_ke7e8u.jxl" alt="A yummy sammy" class="cld-responsive">
 
-<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_jxl,q_auto/w_auto:breakpoints_200_1920_30_15/Marilyn.DKv4UWO-_Z1oJsw9_lrbwri.jxl" alt="A best friend to many" class="cld-responsive">
+<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_jx/Marilyn.DKv4UWO-_Z1oJsw9_lrbwri.jxl" alt="A best friend to many" class="cld-responsive">
 
-<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_jxl,q_auto/w_auto:breakpoints_200_1920_30_15/Marilyn.DKv4UWO-_Z1oJsw9_lrbwri.jxl" alt="A best friend to many" class="cld-responsive">
+<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_jxl/Marilyn.DKv4UWO-_Z1oJsw9_lrbwri.jxl" alt="A best friend to many" class="cld-responsive">
 
 
 <picture>
