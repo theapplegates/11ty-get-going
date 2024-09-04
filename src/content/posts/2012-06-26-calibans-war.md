@@ -7,92 +7,34 @@ tags:
 figureTest:
   caption: "This is a caption for the figure"
 ---
-<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_jxl,q_auto/hillshire-farm_ke7e8u.jxl" alt="A yummy sammy">
-
-<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_jx/Marilyn.DKv4UWO-_Z1oJsw9_lrbwri.jxl" alt="A yummy sammy" class="cld-responsive">
-
-<img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_jx/Marilyn.DKv4UWO-_Z1oJsw9_lrbwri.jxl" alt="A best friend to many" class="cld-responsive">
-
-<img data-src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit/dpr_auto/f_jxl/Marilyn.DKv4UWO-_Z1oJsw9_lrbwri.jxl" alt="A best friend to many" class="cld-responsive">
 
 
 <picture>
-  
-  <source
-    type="image/jxl"
-    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 150w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_300/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 300w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_600/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 600w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_850/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 850w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1200/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1200w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1800/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1800w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2150/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl 2150w"
-    sizes="(max-width: 150px) 150px,
-(max-width: 300px) 300px,
-(max-width: 600px) 600px,
-(max-width: 850px) 850px,
-(max-width: 1200px) 1200px,
-(max-width: 1800px) 1800px,
-(max-width: 2150px) 2150px, 100vw"
-  >
-
-  <source
-    type="image/avif"
-    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 150w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_300/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 300w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_600/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 600w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_850/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 850w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1200/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1200w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1800/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1800w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2150/f_avif/noelle-dnq1e3priY8-unsplash_tljemf.jxl 2150w"
-    sizes="(max-width: 150px) 150px,
-(max-width: 300px) 300px,
-(max-width: 600px) 600px,
-(max-width: 850px) 850px,
-(max-width: 1200px) 1200px,
-(max-width: 1800px) 1800px,
-(max-width: 2150px) 2150px, 100vw"
-  >
-
-  <source
-    type="image/webp"
-    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 150w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_300/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 300w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_600/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 600w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_850/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 850w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1200/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1200w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1800/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1800w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2150/f_webp/noelle-dnq1e3priY8-unsplash_tljemf.jxl 2150w"
-    sizes="(max-width: 150px) 150px,
-(max-width: 300px) 300px,
-(max-width: 600px) 600px,
-(max-width: 850px) 850px,
-(max-width: 1200px) 1200px,
-(max-width: 1800px) 1800px,
-(max-width: 2150px) 2150px, 100vw"
-  >
-
-  <source
-    type="image/jpeg"
-    srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 150w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_300/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 300w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_600/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 600w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_850/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 850w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1200/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1200w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1800/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 1800w,
-https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2150/f_jpeg/noelle-dnq1e3priY8-unsplash_tljemf.jxl 2150w"
-    sizes="(max-width: 150px) 150px,
-(max-width: 300px) 300px,
-(max-width: 600px) 600px,
-(max-width: 850px) 850px,
-(max-width: 1200px) 1200px,
-(max-width: 1800px) 1800px,
-(max-width: 2150px) 2150px, 100vw"
-  >
-  <img
-    src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_jxl/noelle-dnq1e3priY8-unsplash_tljemf.jxl"
-    alt="A beautiful cat"
-  />
+<source type="image/jxl" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50,e_shadow:75,x_20,y_20/f_jxl/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 50w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_462,e_shadow:75,x_20,y_20/f_jxl/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 462w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_695,e_shadow:75,x_20,y_20/f_jxl/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 695w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_971,e_shadow:75,x_20,y_20/f_jxl/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 971w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000,e_shadow:75,x_20,y_20/f_jxl/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 1000w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148,e_shadow:75,x_20,y_20/f_jxl/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 2148w" sizes="(max-width: 50px) 50px, (max-width: 462px) 462px, (max-width: 695px) 695px, (max-width: 971px) 971px, (max-width: 1000px) 1000px, 100vw">
+<source type="image/avif" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50,e_shadow:75,x_20,y_20/f_avif/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 50w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_462,e_shadow:75,x_20,y_20/f_avif/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 462w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_695,e_shadow:75,x_20,y_20/f_avif/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 695w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_971,e_shadow:75,x_20,y_20/f_avif/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 971w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000,e_shadow:75,x_20,y_20/f_avif/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 1000w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148,e_shadow:75,x_20,y_20/f_avif/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 2148w" sizes="(max-width: 50px) 50px, (max-width: 462px) 462px, (max-width: 695px) 695px, (max-width: 971px) 971px, (max-width: 1000px) 1000px, 100vw">
+<source type="image/webp" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50,e_shadow:75,x_20,y_20/f_webp/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 50w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_462,e_shadow:75,x_20,y_20/f_webp/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 462w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_695,e_shadow:75,x_20,y_20/f_webp/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 695w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_971,e_shadow:75,x_20,y_20/f_webp/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 971w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000,e_shadow:75,x_20,y_20/f_webp/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 1000w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148,e_shadow:75,x_20,y_20/f_webp/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 2148w" sizes="(max-width: 50px) 50px, (max-width: 462px) 462px, (max-width: 695px) 695px, (max-width: 971px) 971px, (max-width: 1000px) 1000px, 100vw">
+<source type="image/jpg" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_50,e_shadow:75,x_20,y_20/f_jpg/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 50w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_462,e_shadow:75,x_20,y_20/f_jpg/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 462w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_695,e_shadow:75,x_20,y_20/f_jpg/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 695w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_971,e_shadow:75,x_20,y_20/f_jpg/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 971w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000,e_shadow:75,x_20,y_20/f_jpg/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 1000w,
+ https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148,e_shadow:75,x_20,y_20/f_jpg/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl 2148w" sizes="(max-width: 50px) 50px, (max-width: 462px) 462px, (max-width: 695px) 695px, (max-width: 971px) 971px, (max-width: 1000px) 1000px, 100vw">
+  <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_2148,e_shadow:75,x_20,y_20/nikolett-emmert--RUyg_gBZi4-unsplash_fp2pbw.jxl" alt="Bird" width="2148" height="1208">
 </picture>
 
 
