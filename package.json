@@ -31,6 +31,7 @@
 		"@cloudinary/html": "^1.13.0",
 		"@cloudinary/url-gen": "^1.20.0",
 		"html-minifier": "^4.0.0",
+		"luxon": "^3.5.0",
 		"markdown-it": "^13.0.1",
 		"markdown-it-attrs": "^4.1.6",
 		"markdown-it-deflist": "^2.1.0",
