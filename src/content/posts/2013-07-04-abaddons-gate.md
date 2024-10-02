@@ -6,43 +6,27 @@ tags:
 figureTest:
   caption: "This is a caption for the figure"
 ---
-
 <picture>
-  <source type="image/jxl" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000,e_shadow:80,x_20,y_20/f_jxl/itnme66ua5ytyyc6jwew 1000w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_984,e_shadow:80,x_20,y_20/f_jxl/itnme66ua5ytyyc6jwew 984w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_877,e_shadow:80,x_20,y_20/f_jxl/itnme66ua5ytyyc6jwew 877w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_798,e_shadow:80,x_20,y_20/f_jxl/itnme66ua5ytyyc6jwew 798w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_720,e_shadow:80,x_20,y_20/f_jxl/itnme66ua5ytyyc6jwew 720w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_572,e_shadow:80,x_20,y_20/f_jxl/itnme66ua5ytyyc6jwew 572w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_200,e_shadow:80,x_20,y_20/f_jxl/itnme66ua5ytyyc6jwew 200w" sizes="(max-width: 1000px) 100vw, 1000px">
-<source type="image/avif" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000,e_shadow:80,x_20,y_20/f_avif/itnme66ua5ytyyc6jwew 1000w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_984,e_shadow:80,x_20,y_20/f_avif/itnme66ua5ytyyc6jwew 984w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_877,e_shadow:80,x_20,y_20/f_avif/itnme66ua5ytyyc6jwew 877w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_798,e_shadow:80,x_20,y_20/f_avif/itnme66ua5ytyyc6jwew 798w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_720,e_shadow:80,x_20,y_20/f_avif/itnme66ua5ytyyc6jwew 720w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_572,e_shadow:80,x_20,y_20/f_avif/itnme66ua5ytyyc6jwew 572w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_200,e_shadow:80,x_20,y_20/f_avif/itnme66ua5ytyyc6jwew 200w" sizes="(max-width: 1000px) 100vw, 1000px">
-<source type="image/webp" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000,e_shadow:80,x_20,y_20/f_webp/itnme66ua5ytyyc6jwew 1000w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_984,e_shadow:80,x_20,y_20/f_webp/itnme66ua5ytyyc6jwew 984w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_877,e_shadow:80,x_20,y_20/f_webp/itnme66ua5ytyyc6jwew 877w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_798,e_shadow:80,x_20,y_20/f_webp/itnme66ua5ytyyc6jwew 798w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_720,e_shadow:80,x_20,y_20/f_webp/itnme66ua5ytyyc6jwew 720w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_572,e_shadow:80,x_20,y_20/f_webp/itnme66ua5ytyyc6jwew 572w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_200,e_shadow:80,x_20,y_20/f_webp/itnme66ua5ytyyc6jwew 200w" sizes="(max-width: 1000px) 100vw, 1000px">
-<source type="image/jpg" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1000,e_shadow:80,x_20,y_20/f_jpg/itnme66ua5ytyyc6jwew 1000w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_984,e_shadow:80,x_20,y_20/f_jpg/itnme66ua5ytyyc6jwew 984w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_877,e_shadow:80,x_20,y_20/f_jpg/itnme66ua5ytyyc6jwew 877w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_798,e_shadow:80,x_20,y_20/f_jpg/itnme66ua5ytyyc6jwew 798w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_720,e_shadow:80,x_20,y_20/f_jpg/itnme66ua5ytyyc6jwew 720w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_572,e_shadow:80,x_20,y_20/f_jpg/itnme66ua5ytyyc6jwew 572w,
- https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_200,e_shadow:80,x_20,y_20/f_jpg/itnme66ua5ytyyc6jwew 200w" sizes="(max-width: 1000px) 100vw, 1000px">
-  <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_200,e_shadow:80,x_20,y_20/itnme66ua5ytyyc6jwew" alt="A pic">
+<source type="image/webp" srcset="
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2150/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 2150w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2099/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 2099w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2082/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 2082w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2117/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 2117w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1941/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 1941w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1644/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 1644w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1655/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 1655w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1469/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 1469w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1372/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 1372w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1278/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 1278w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1178/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 1178w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1023/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 1023w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_972/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 972w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_925/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 925w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_875/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 875w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_784/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 784w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_453/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 453w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_422/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 422w,
+    https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_250/e_shadow:75,x_20,y_20/v1727839264/yeptsm6n53hfp4s6bboz.webp 250w
+  "/>
+  <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/e_shadow:75,x_20,y_20/c_scale,w_250/v1727839264/yeptsm6n53hfp4s6bboz.webp" alt="Responsive Image">
 </picture>
-
-## Setting
-
-For generations, the solar system - Mars, the Moon, the Asteroid Belt - was humanity's great frontier. Until now. The alien artefact working through its program under the clouds of Venus has emerged to build a massive structure outside the orbit of Uranus: a gate that leads into a starless dark.
-
-Jim Holden and the crew of the Rocinante are part of a vast flotilla of scientific and military ships going out to examine the artefact. But behind the scenes, a complex plot is unfolding, with the destruction of Holden at its core. As the emissaries of the human race try to find whether the gate is an opportunity or a threat, the greatest danger is the one they brought with them.[^1]
-
-[^1]: Source: https://www.goodreads.com/book/show/16131032-abaddon-s-gate
