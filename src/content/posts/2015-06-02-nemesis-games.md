@@ -19,81 +19,11 @@ And as a new human order is struggling to be born in blood and fire, James Holde
 [^1]: Source: https://www.goodreads.com/book/show/22886612-nemesis-games
 
 
-<picture>
-    
-    <source
-      type="image/jxl"
-      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_80/f_jxl/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 80w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_jxl/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 150w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_320/f_jxl/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 320w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_640/f_jxl/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 640w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_960/f_jxl/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 960w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1024/f_jxl/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 1024w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1248/f_jxl/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 1248w"
-      sizes="(max-width: 80px) 80px,
-  (max-width: 150px) 150px,
-  (max-width: 320px) 320px,
-  (max-width: 640px) 640px,
-  (max-width: 960px) 960px,
-  (max-width: 1024px) 1024px,
-  (max-width: 1248px) 1248px, 100vw"
-    >
-
-    <source
-      type="image/avif"
-      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_80/f_avif/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 80w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_avif/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 150w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_320/f_avif/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 320w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_640/f_avif/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 640w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_960/f_avif/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 960w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1024/f_avif/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 1024w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1248/f_avif/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 1248w"
-      sizes="(max-width: 80px) 80px,
-  (max-width: 150px) 150px,
-  (max-width: 320px) 320px,
-  (max-width: 640px) 640px,
-  (max-width: 960px) 960px,
-  (max-width: 1024px) 1024px,
-  (max-width: 1248px) 1248px, 100vw"
-    >
-
-    <source
-      type="image/webp"
-      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_80/f_webp/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 80w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_webp/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 150w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_320/f_webp/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 320w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_640/f_webp/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 640w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_960/f_webp/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 960w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1024/f_webp/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 1024w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1248/f_webp/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 1248w"
-      sizes="(max-width: 80px) 80px,
-  (max-width: 150px) 150px,
-  (max-width: 320px) 320px,
-  (max-width: 640px) 640px,
-  (max-width: 960px) 960px,
-  (max-width: 1024px) 1024px,
-  (max-width: 1248px) 1248px, 100vw"
-    >
-
-    <source
-      type="image/jpeg"
-      srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_80/f_jpeg/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 80w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_150/f_jpeg/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 150w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_320/f_jpeg/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 320w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_640/f_jpeg/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 640w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_960/f_jpeg/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 960w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1024/f_jpeg/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 1024w,
-  https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_1248/f_jpeg/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl 1248w"
-      sizes="(max-width: 80px) 80px,
-  (max-width: 150px) 150px,
-  (max-width: 320px) 320px,
-  (max-width: 640px) 640px,
-  (max-width: 960px) 960px,
-  (max-width: 1024px) 1024px,
-  (max-width: 1248px) 1248px, 100vw"
-    >
-    <img
-      src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_limit,w_80/f_jxl/simon-spring-LPND76rb2gU-unsplash_prfegn.jxl"
-      alt="Tree"
-    />
-  </picture>
+<div class="shadow-wrapper">
+    <picture class="my-picture">
+        <source type="image/avif" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2200/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.avif?_a=BAMCkGIL0 2200w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2191/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.avif?_a=BAMCkGIL0 2191w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2138/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.avif?_a=BAMCkGIL0 2138w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2132/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.avif?_a=BAMCkGIL0 2132w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2017/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.avif?_a=BAMCkGIL0 2017w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1829/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.avif?_a=BAMCkGIL0 1829w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1763/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.avif?_a=BAMCkGIL0 1763w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1634/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.avif?_a=BAMCkGIL0 1634w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1369/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.avif?_a=BAMCkGIL0 1369w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1090/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.avif?_a=BAMCkGIL0 1090w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_661/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.avif?_a=BAMCkGIL0 661w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_300/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.avif?_a=BAMCkGIL0 300w" sizes="(min-width: 1200px) 1200px, 100vw" />
+        <source type="image/webp" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2200/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.webp?_a=BAMCkGIL0 2200w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2191/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.webp?_a=BAMCkGIL0 2191w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2138/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.webp?_a=BAMCkGIL0 2138w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2132/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.webp?_a=BAMCkGIL0 2132w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2017/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.webp?_a=BAMCkGIL0 2017w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1829/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.webp?_a=BAMCkGIL0 1829w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1763/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.webp?_a=BAMCkGIL0 1763w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1634/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.webp?_a=BAMCkGIL0 1634w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1369/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.webp?_a=BAMCkGIL0 1369w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1090/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.webp?_a=BAMCkGIL0 1090w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_661/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.webp?_a=BAMCkGIL0 661w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_300/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.webp?_a=BAMCkGIL0 300w" sizes="(min-width: 1200px) 1200px, 100vw" />
+        <source type="image/jpeg" srcset="https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2200/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jpeg?_a=BAMCkGIL0 2200w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2191/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jpeg?_a=BAMCkGIL0 2191w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2138/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jpeg?_a=BAMCkGIL0 2138w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2132/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jpeg?_a=BAMCkGIL0 2132w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_2017/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jpeg?_a=BAMCkGIL0 2017w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1829/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jpeg?_a=BAMCkGIL0 1829w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1763/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jpeg?_a=BAMCkGIL0 1763w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1634/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jpeg?_a=BAMCkGIL0 1634w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1369/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jpeg?_a=BAMCkGIL0 1369w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_1090/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jpeg?_a=BAMCkGIL0 1090w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_661/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jpeg?_a=BAMCkGIL0 661w, https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_300/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jpeg?_a=BAMCkGIL0 300w" sizes="(min-width: 1200px) 1200px, 100vw" />
+        <img src="https://res.cloudinary.com/paulapplegate-com/image/upload/c_scale,w_300/e_shadow:75,x_20,y_20/o4skqy4plgnxkxab2mno.jxl?_a=BAMCkGIL0" alt="Chicago" loading="lazy" />
+    </picture>
+</div>
