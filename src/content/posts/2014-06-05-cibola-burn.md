@@ -75,7 +75,7 @@ figureTest:
 </div>
 <style>
   .credit-container {
-    font-size: 12px;
+    font-size: 10px;
     font-style: italic;
     display: flex;
     align-items: center;
